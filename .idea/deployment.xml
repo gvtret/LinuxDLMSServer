@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="Linux (f1cf5744-537f-4da1-8376-daf47cf1a56e)" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="Linux (f1cf5744-537f-4da1-8376-daf47cf1a56e)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.6wXuBgXLDY" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
