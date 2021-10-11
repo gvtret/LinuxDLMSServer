@@ -1,0 +1,3 @@
+[submodule "dlms_c"]
+	path = dlms_c
+	url = https://github.com/gvtret/GuruxDLMS.c.git
